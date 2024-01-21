@@ -1,2 +1,7 @@
 hi devops class good after noon 
 the all good 
+ delete mode 100644 abc1
+ delete mode 100644 abc2
+ delete mode 100644 abc3
+ delete mode 100644 abc4
+ 
