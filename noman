@@ -1,0 +1,20 @@
+<div id="wrapper">
+  <h1 class="name">Ivory Sherman</h1>
+  <link href='https://fonts.googleapis.com/css?family=Mr+Dafoe|Fjalla+One' rel='stylesheet' type='text/css'>
+</div>
+body {
+  background-color: black;
+}
+
+.name {
+  position: absolute;
+  margin: px;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 160px;
+  color: #260D63;
+  margin-left: 450px;
+  margin-top: 200px;
+  -webkit-text-stroke: 1px magenta;
+  -webkit-filter: drop-shadow(1px 1px 18px #AC10FF);
+}
+/* #F975F7 */ 
